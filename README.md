@@ -9,3 +9,4 @@ __PLEASE__ run the codes inside this repoistory inside a docker container
 - May 14, 2020
 	- initialized repository
 	- added ros1 installer for docker container using ubuntu 20.04 LTS
+	- added Dockerfile used for my test environment
